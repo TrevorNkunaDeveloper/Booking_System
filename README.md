@@ -27,12 +27,12 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-##Usage
+## Usage
 - Navigate to http://127.0.0.1:8000/ in your browser after starting the server.
 - Use the interface to:
 - View room details and images.
 - Book or cancel rooms.
 - Manage user profiles.
 
-##Credits
+## Credits
 Author - Hlulani Trevor Nkuna
